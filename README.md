@@ -1,8 +1,6 @@
 # Internal
 校园内网爬虫
 
-# NSFW警告!!! NSFW警告!!! NSFW警告!!!
-
 这两个爬虫是高中校园网内网爬虫
 
 XXJS_Spider用于爬取xxjs网站资料
